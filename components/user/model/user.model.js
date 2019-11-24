@@ -22,7 +22,7 @@ var UserSchema = new Schema({
     },
     verified: {
         type: Boolean,
-        default: true 
+        default: true
     }
 });
 
